@@ -1,4 +1,4 @@
-<h1 align="left">Bienvenu sur mon profil</h1>
+<h1 align="left">Bienvenue sur mon profil</h1>
 
 ###
 
